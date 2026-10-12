@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:16213e,100:0d1117&height=200&section=header&text=kichupuchu&fontSize=52&fontColor=7ee787&animation=fadeIn&fontAlignY=38&desc=Cyber%20Security%20%E2%80%A2%20Digital%20Forensics%20%E2%80%A2%20Python%2C%20C%2FC%2B%2B&descSize=16&descAlignY=58" alt="Vivek Singh — header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:16213e,100:0d1117&height=200&section=header&text=VIVEK%20SINGH&fontSize=52&fontColor=7ee787&animation=fadeIn&fontAlignY=38&desc=Cyber%20Security%20%E2%80%A2%20Digital%20Forensics%20%E2%80%A2%20Python%2C%20C%2FC%2B%2B&descSize=16&descAlignY=58" alt="Vivek Singh — header"/>
 
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1500&color=7ee787&center=true&vCenter=true&repeat=true&width=700&height=40&lines=Cyber+Security+Enthusiast;Digital+Forensics+Explorer;Python+%26+C%2FC%2B%2B+Developer;Always+Learning%2C+Always+Building" alt="Typing animation"/></a>
@@ -18,7 +18,7 @@
 
 ```text
 $ whoami
-> kichupuchu — B.Tech + M.Tech (Integrated) student at the
+> Vivek Singh — B.Tech + M.Tech (Integrated) student at the
   Uttar Pradesh State Institute of Forensic Sciences, Lucknow
 
 $ cat focus.txt
